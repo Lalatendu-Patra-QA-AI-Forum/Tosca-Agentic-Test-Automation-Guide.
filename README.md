@@ -6,6 +6,7 @@ For a complete end-to-end implementation, refer to the detailed PDF guide:
 
 
 The guide covers the setup from scratch with detailed step-by-step instructions and screenshots.
+
 ---
 🧠 **Tosca Agentic Test Automation (Tosca collabs with AI to create magic)**
 
