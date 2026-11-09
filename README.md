@@ -32,4 +32,10 @@ Tricentis has integrated Agentic Test Automation into Tricentis Tosca which enab
 ---
 > ⚠️ **Version Support Notice:** This configuration guide is only applicable for **Tosca 2025.x** and **versions prior to it**. From **Tosca 2026.1** version onwards the process changes significantly.
 ---
+## 🛠️ Step-by-Step Configuration Guide
 
+This section guides you through the full functional setup required to establish a continuous automation bridge between your local machine, Tosca Commander, and the cloud execution engines.
+
+### Phase 1: Cloud Personal Agent Activation
+1. **Navigate to Quick Start Guides:** Log into your Tosca Cloud Tenant homepage, select the **Quick start guides** section, and click on **Download Launcher**.
+<img width="975" height="452" alt="image" src="https://github.com/user-attachments/assets/95a6c31f-8217-4100-b3a4-2ccc2325ce54" />
