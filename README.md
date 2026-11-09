@@ -25,7 +25,11 @@ Tricentis has integrated Agentic Test Automation into Tricentis Tosca which enab
 <br>➔ Up to 60% productivity boost for QA and automation engineers.
 
 ---
+## 📋 Pre-requisites
+1. A **Tosca Cloud Tenant account** equipped with an execution license to create and provision team/cloud agents.
+2. A **Tosca On-Premise workspace** with licenses managed securely via Tricentis Tosca Server.
 
-
+---
+> ⚠️ **Version Support Notice:** This configuration guide is only applicable for **Tosca 2025.x** and **versions prior to it**. From **Tosca 2026.1** version onwards the process changes significantly.
 ---
 
