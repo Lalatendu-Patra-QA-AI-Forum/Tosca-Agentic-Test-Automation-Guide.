@@ -16,7 +16,16 @@ Tricentis has integrated Agentic Test Automation into Tricentis Tosca which enab
 ## 🌟 Key Advantages:
 * **Natural Language Test Generation:** Mention instructions in plain English, and the agent automatically translates them into executable modules, test steps, and values without manual intervention.
 * **Dual Execution Modes:**
-  * ⮚ **Co-Create Mode (Default):** Works like pair programming, executing one step at a time and waiting for your feedback.
-  * ⮚ **Autonomous Mode:** Runs sequences end-to-end without manual interruption for rapid test generation.
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;⮚ **Co-Create Mode (Default):** Works like pair programming, executing one step at a time and waiting for your feedback.
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;⮚ **Autonomous Mode:** Runs sequences end-to-end without manual interruption for rapid test generation.
 ---
 ## 💥 Big Impact:
+
+➔ Approximately 85% reduction in manual test creation effort.
+<br>➔ Up to 60% productivity boost for QA and automation engineers.
+
+---
+
+
+---
+
