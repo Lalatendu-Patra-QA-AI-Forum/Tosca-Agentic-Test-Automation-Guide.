@@ -76,7 +76,7 @@ The tenant name is the variable part of your Tosca Cloud URL: **https://\<your t
 
 <strong>Sample Prompt:</strong>
 Create an end-to-end web automation test case for demo webshop.
-* Open https://tricentis.com in chrome browser
+* Open https://demowebshop.tricentis.com in chrome browser
 * Select Computers under CATEGORIES
 * Wait until Computers categories are displayed
 * Verify the different types Computers displayed and select Notebooks
